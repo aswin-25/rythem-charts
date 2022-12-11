@@ -1,6 +1,9 @@
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm i` or `npm install`
+
+To install all the dependencies required
 
 ### `node index.js`
 
